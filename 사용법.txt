@@ -1,0 +1,11 @@
+repo에 데이터 올릴 때
+- git add .
+- git commit -m "메시지 입력"
+- git push origin main
+
+브랜치 전환
+- git checkout- b 브랜치명
+
+error 뜨면
+- git init
+- git remote add origin "repo주소"
